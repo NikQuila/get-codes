@@ -86,21 +86,21 @@ class SkuTournaments extends React.Component {
               1. Ingresa en (battlefy.com/houseplay) selecciona tu torneo y
               presiona "Join"
             </p>
-            <p></p>
+            <p>-------------------------------------------------</p>
             <p>2. Crea una cuenta de BattleFy.</p>
-            <p></p>
+            <p>-------------------------------------------------</p>
             <p>
               3. Coloca el siguiente código {this.state.code.code} donde dice
               "Join Code"
             </p>
-            <p></p>
+            <p>-------------------------------------------------</p>
             <p>4. Rellena el formulario y únete al grupo de Discord</p>
-            <p></p>
+            <p>-------------------------------------------------</p>
             <p>
               5. Ya inscrito, se coordinara vía BattleFy y Discord las fechas y
               oponentes que deberás enfrentar.
             </p>
-            <p></p>
+            <p>-------------------------------------------------</p>
             <p>
               6. ¿Has sido el campeón? ¡Te contactaremos enseguida para que
               recibas tu gran premio!
